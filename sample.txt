@@ -1,0 +1,4 @@
+/etc/name_1
+/etc/name_2
+/etc/name_3
+/etc/name_4

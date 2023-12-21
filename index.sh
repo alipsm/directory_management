@@ -2,7 +2,7 @@
 # sed '1d' config.txt > config_2.txt
 
 
-#./ChangeTheFileSizeSensitivity.sh
+# ./ChangeTheFileSizeSensitivity.sh
 
 # echo $'Hello world.' >> config.txt
 
@@ -12,4 +12,6 @@
 
 # ./showFileContents.sh ./config.txt
 
+
+ ./checkSensitivityValue.sh ./config.txt
 
